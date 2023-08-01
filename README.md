@@ -1,7 +1,4 @@
-<center><h1>Hi, I am SAGAR! Great to see you here! 👋</h1></center> 
-
-
-
+<div align = "center"><h2>Hi, I am SAGAR! Glad to see you here! 👋</h2></div> 
 
 - 🌱 I’m currently learning JavaScript and Advance JavaScript. I am also practicing Data Structures and algorithm to enhance my problem solving skills.
 
