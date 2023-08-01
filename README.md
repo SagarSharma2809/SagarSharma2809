@@ -21,3 +21,7 @@
 
 - ⚡ Fun fact: I love designing and creatively imagine stories. I have an art page also https://www.instagram.com/doodleinphone/
 
+- <img 
+   src="https://github-readme-stats.vercel.app/api?username=SagarSharma2809&show_icons=true&theme=tokyonight" 
+/>
+
