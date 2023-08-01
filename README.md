@@ -1,5 +1,9 @@
-<img src="readme banner sagar github.jpeg">
-<div align = "center"><h1>Hi, I am SAGAR! Glad to see you here! 👋</h1></div> 
+
+
+<div align = "center">
+        <img src="resized-image-Promo.jpeg">
+        <h1>Hi, I am SAGAR! Glad to see you here! 👋</h1>
+</div> 
 
 - 🌱 I’m currently learning JavaScript and Advance JavaScript. I am also practicing Data Structures and algorithm to enhance my problem solving skills.
 
