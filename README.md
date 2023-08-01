@@ -1,3 +1,5 @@
+<img src="https://www.canva.com/design/DAFqUeOwugo/NMnEznuR6y9Lr4AxMG5uEA/edit?utm_content=DAFqUeOwugo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
+
 <div align = "center"><h1>Hi, I am SAGAR! Glad to see you here! 👋</h1></div> 
 
 - 🌱 I’m currently learning JavaScript and Advance JavaScript. I am also practicing Data Structures and algorithm to enhance my problem solving skills.
