@@ -5,11 +5,13 @@
         <h1>Hi, I am SAGAR! Glad to see you here! 👋</h1>
 </div> 
 
-- 🌱 I’m currently learning JavaScript and Advance JavaScript. I am also practicing Data Structures and algorithm to enhance my problem solving skills.
+- 🌱 I’m currently <b>learning JavaScript and Advance JavaScript</b>.
 
-- 👯 I’m looking to collaborate on Open source Projects where I can contribute with HTML, CSS, Bootstrap, JavaScript
+- I am also **practicing Data Structures** and algorithm **to enhance my problem solving skills**.
 
-- 🤔 I’m looking for good first issues to contribute to.
+- 👯 I’m **looking to collaborate on Open source Projects** where I can **contribute with HTML, CSS, Bootstrap, JavaScript**
+
+- 🤔 I’m **looking for good first issues** to contribute to.
 
 - 💬 Ask me about my blogs on https://hashnode.com/@sagarCodes and anything about anime in general 😄
 
