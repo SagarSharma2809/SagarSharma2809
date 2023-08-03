@@ -5,13 +5,52 @@
         <h1>Hi, I am SAGAR! Glad to see you here! 👋</h1>
 </div> 
 
-- 🌱 I’m currently <b>learning JavaScript and Advance JavaScript</b>.
+- 🌱 I’m currently **learning React Js**.
 
 - I am also **practicing Data Structures** and algorithm **to enhance my problem solving skills**.
 
 - 👯 I’m **looking to collaborate on Open source Projects** where I can **contribute with HTML, CSS, Bootstrap, JavaScript**
 
 - 🤔 I’m **looking for good first issues** to contribute to.
+
+## Languages and Tools
+<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/java.svg"
+alt="java" 
+height="60px"> 
+<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/html5.svg"
+alt="html" 
+height="60px">
+<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/css3.svg"
+alt="css" 
+height="60px">
+<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/javascript.svg"
+alt="javaScript" 
+height="60px">
+<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/62487087dc4f4f5efee637addbc67a16dd374bf6/text%20editors/vscode.svg"
+alt="vs code" 
+height="60px">
+<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/cloud/github.svg"
+alt="GitHub" 
+height="60px">
+<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/frameworks/boostrap.svg"
+alt="Bootstrap" 
+height="60px">
+<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/frameworks/jquery.svg"
+alt="jQuery" 
+height="60px">
+<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/ides/eclipse.png"
+alt="eclipse" 
+height="60px">
+<img src="https://github.com/bablubambal/All_logo_and_pictures/blob/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/others/git.svg"
+alt="eclipse" 
+height="60px">
+
+
+
+
+
+
+
 
 - 💬 Ask me about my blogs on https://hashnode.com/@sagarCodes and anything about anime in general 😄
 
