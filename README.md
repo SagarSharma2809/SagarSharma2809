@@ -18,7 +18,7 @@
 - ⚡ Fun fact: I love designing and creatively imagine stories. I have an art page also https://www.instagram.com/doodleinphone/
 
 
-## Languages and Tools
+# Languages and Tools
 <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/java.svg"
 alt="java" 
 height="60px"> 
@@ -50,7 +50,7 @@ height="60px">
 alt="eclipse" 
 height="60px">
 
-## Connect with me
+# Connect with me
 
 <a href="https://twitter.com/SagarSharma2809">
         <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/social%20icons/twitter.svg" alt="twitter" height="60px">
@@ -71,6 +71,7 @@ height="60px">
 
 # Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
+
 <!-- HASHNODE_BLOG:END -->
 
 
