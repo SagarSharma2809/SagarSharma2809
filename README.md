@@ -70,9 +70,8 @@ height="60px">
 
 
 # Latest Blog Posts 👇
-<!-- HASHNODE_BLOG:START -->
-
-<!-- HASHNODE_BLOG:END -->
+<!-- HASHNODE:START -->
+<!-- HASHNODE:END -->
 
 
         
