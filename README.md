@@ -71,11 +71,11 @@ height="60px">
 
 # Latest Blog Posts 👇
 <!-- HASHNODE:START -->
+- [Basics of Asynchronous JS](https://sagarcoding.hashnode.dev/basics-of-asynchronous-js)
 - [What is jQuery?](https://sagarcoding.hashnode.dev/what-is-jquery)
 - [My Experience as a Web Developer Intern](https://sagarcoding.hashnode.dev/my-experience-as-a-web-developer-intern)
 - [What is Open-Source? How to get Started](https://sagarcoding.hashnode.dev/what-is-open-source-how-to-get-started)
 - [My Tech Journey](https://sagarcoding.hashnode.dev/my-tech-journey)
-- [Why we should not use &#39;var&#39; keyword in JavaScript](https://sagarcoding.hashnode.dev/why-we-should-not-use-var-keyword-in-javascript)
 <!-- HASHNODE:END -->
 
 
