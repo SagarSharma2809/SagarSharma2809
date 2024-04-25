@@ -50,6 +50,7 @@ height="60px">
 alt="eclipse" 
 height="60px">
 <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/others/npm.svg" alt="npm" height="60px">
+<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/frameworks/nodejs.svg" height="60px">
 
 # Connect with me
 
