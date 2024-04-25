@@ -49,9 +49,7 @@ height="60px">
 <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/others/git.svg"
 alt="eclipse" 
 height="60px">
-<img src"https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/others/npm.svg"
-alt="npm"
-height="60px">
+<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/others/npm.svg" alt="npm" height="60px">
 
 # Connect with me
 
