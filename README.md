@@ -74,11 +74,11 @@ height="60px">
 
 # Latest Blog Posts 👇
 <!-- HASHNODE:START -->
+- [The Essential NPM Commands You Need to Know](https://sagarcoding.hashnode.dev/the-essential-npm-commands-you-need-to-know)
 - [Basics of Asynchronous JS](https://sagarcoding.hashnode.dev/basics-of-asynchronous-js)
 - [What is jQuery?](https://sagarcoding.hashnode.dev/what-is-jquery)
 - [My Experience as a Web Developer Intern](https://sagarcoding.hashnode.dev/my-experience-as-a-web-developer-intern)
 - [What is Open-Source? How to get Started](https://sagarcoding.hashnode.dev/what-is-open-source-how-to-get-started)
-- [My Tech Journey](https://sagarcoding.hashnode.dev/my-tech-journey)
 <!-- HASHNODE:END -->
 
 
