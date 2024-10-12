@@ -5,7 +5,7 @@
         <h1>Hi, I am SAGAR! Glad to see you here! 👋</h1>
 </div> 
 
-- 🌱 I’m currently **learning React Js**.
+- 🌱 I’m currently **learning Backend Development**.
 
 - I am also **practicing Data Structures** and algorithm **to enhance my problem solving skills**.
 
