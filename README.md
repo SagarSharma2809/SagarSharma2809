@@ -9,7 +9,7 @@
 
 - I am also **practicing Data Structures** and algorithm **to enhance my problem solving skills**.
 
-- 👯 I’m **looking to collaborate on Open source Projects** where I can **contribute with HTML, CSS, Tailwind CSS, JavaScript, React**
+- 👯 I’m **looking to collaborate on Open source Projects** where I can **contribute with HTML, CSS, Tailwind CSS, JavaScript, React, Node, PostgreSQL**
 
 - 🤔 I’m **looking for good first issues** to contribute to.
 
